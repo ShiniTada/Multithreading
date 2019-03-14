@@ -1,0 +1,401 @@
+2019-03-12 22:12:33 [main] WARN  com.epam.taskthree.reader.DataReader - File:data\another.txt  is not exist or empty.
+2019-03-12 22:12:33 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-12 22:22:15 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 22:22:15 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 22:22:49 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 22:23:46 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 22:24:27 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 22:24:42 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 22:29:29 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 22:35:20 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 22:36:34 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 22:36:34 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:46:59 [main] WARN  com.epam.taskthree.reader.DataReader - File:data\order.txt  is not exist or empty.
+2019-03-12 23:46:59 [main] FATAL com.epam.taskthree.main.Main - com.epam.taskthree.exception.ReadDataException: File is not exist or empty - data\order.txt
+2019-03-12 23:47:43 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-12 23:47:43 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:47:43 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:47:43 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:47:43 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:47:43 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:48:03 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-12 23:48:03 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:48:03 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:48:03 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:48:03 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:48:03 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:48:17 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-12 23:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:22 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-12 23:49:22 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:22 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:22 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:22 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:22 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:53 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-12 23:49:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-12 23:49:53 [main] WARN  com.epam.taskthree.reader.DataReader - File:data\another.txt  is not exist or empty.
+2019-03-12 23:49:53 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-13 11:18:42 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-13 11:18:42 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-13 11:18:42 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-13 11:18:42 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-13 11:18:42 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-13 11:18:42 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-13 11:18:43 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-13 11:18:43 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-13 11:18:43 [main] WARN  com.epam.taskthree.reader.DataReader - File:data\another.txt  is not exist or empty.
+2019-03-13 11:18:43 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 20:37:05 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\aLotOfOrders.txt was successfully read.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:37:05 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\aLotOfOrders.txt was successfully read.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:48:17 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\aLotOfOrders.txt was successfully read.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 20:54:58 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:03:44 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 21:03:44 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:03:44 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:03:44 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:03:44 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:03:44 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:10:53 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 21:10:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:10:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:10:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:10:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:10:53 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:26:57 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 21:26:57 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:26:57 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:26:57 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:26:57 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:26:57 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:37:32 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 21:37:32 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:37:32 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:37:32 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:37:32 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:37:32 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:37:32 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 21:37:32 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:37:32 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:37:32 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:37:32 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers
+2019-03-14 21:42:50 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 21:42:50 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:42:50 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:42:50 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:42:50 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:42:50 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:42:50 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 21:44:11 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 21:44:11 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:44:11 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:44:11 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:44:11 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:44:11 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:44:11 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 21:44:11 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:44:11 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:44:11 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:44:11 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 21:49:13 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 21:49:13 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:49:13 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:49:13 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:49:13 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:49:13 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:49:13 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 21:49:13 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:49:13 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:49:13 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:49:13 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 21:51:06 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 21:51:06 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:51:06 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:51:06 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:51:06 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:51:06 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:51:06 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 21:51:06 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:51:06 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:51:06 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:51:06 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 21:51:06 [main] INFO  com.epam.taskthree.main.Main - Cashiers give their reports.
+2019-03-14 21:53:59 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 21:53:59 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:53:59 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:53:59 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:53:59 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:53:59 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:54:38 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:56:29 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:56:29 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:56:30 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:56:30 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:56:32 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 21:56:32 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:56:32 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:56:32 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:56:32 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 21:56:32 [main] INFO  com.epam.taskthree.main.Main - Cashiers give their reports.
+2019-03-14 21:57:40 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 21:57:40 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:57:40 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:57:40 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:57:40 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:57:40 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:58:10 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:58:13 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:58:13 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:58:13 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:58:13 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:58:14 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 21:58:14 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:58:14 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:58:14 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:58:14 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 21:58:14 [main] INFO  com.epam.taskthree.main.Main - Cashiers give their reports.
+2019-03-14 21:59:45 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 21:59:45 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:59:45 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:59:45 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:59:45 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:59:45 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 21:59:45 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:59:45 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:59:45 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:59:45 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:59:45 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 21:59:45 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 21:59:45 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:59:45 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:59:45 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 21:59:45 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 21:59:45 [main] INFO  com.epam.taskthree.main.Main - Cashiers give their reports.
+2019-03-14 22:00:04 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 22:00:04 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:00:04 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:00:04 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:00:04 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:00:04 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:00:11 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:00:14 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:00:14 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:00:14 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:00:14 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:00:14 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 22:00:14 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:00:14 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:00:14 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:00:14 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 22:00:14 [main] INFO  com.epam.taskthree.main.Main - Cashiers give their reports.
+2019-03-14 22:01:45 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 22:01:46 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:01:46 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:01:46 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:01:46 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:01:46 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:01:46 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:01:46 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:01:46 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:01:46 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:01:46 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:01:46 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 22:01:46 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:01:46 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:01:46 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:01:46 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 22:01:46 [main] INFO  com.epam.taskthree.main.Main - Cashiers give their reports.
+2019-03-14 22:04:13 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 22:04:13 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:04:13 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:04:13 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:04:13 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:04:13 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:04:13 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:04:13 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:04:13 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:04:13 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:04:13 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:04:13 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 22:04:13 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:04:13 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:04:13 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:04:13 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 22:04:13 [main] INFO  com.epam.taskthree.main.Main - Cashiers give their reports.
+2019-03-14 22:04:17 [main] INFO  com.epam.taskthree.main.Main - 0
+2019-03-14 22:04:17 [main] INFO  com.epam.taskthree.main.Main - 1
+2019-03-14 22:04:17 [main] INFO  com.epam.taskthree.main.Main - 2
+2019-03-14 22:04:17 [main] INFO  com.epam.taskthree.main.Main - main - finally
+2019-03-14 22:05:04 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 22:05:04 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:05:04 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:05:04 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:05:04 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:05:04 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:05:04 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:05:04 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:05:04 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:05:04 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:05:04 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:05:04 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 22:05:04 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:05:04 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:05:04 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:05:04 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 22:05:04 [main] INFO  com.epam.taskthree.main.Main - Cashiers give their reports.
+2019-03-14 22:08:03 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\orders.txt was successfully read.
+2019-03-14 22:08:03 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:08:03 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:08:03 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:08:03 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:08:03 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:08:03 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:08:03 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:08:03 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:08:03 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:08:03 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:08:03 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:08:03 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:08:03 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:08:03 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:08:03 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:08:03 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 22:08:03 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:08:03 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:08:03 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:08:03 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 22:08:03 [main] INFO  com.epam.taskthree.main.Main - Cashiers give their reports.
+2019-03-14 22:08:03 [pool-2-thread-1] INFO  com.epam.taskthree.entity.Customer - Customer alive!
+2019-03-14 22:08:03 [pool-2-thread-1] INFO  com.epam.taskthree.entity.Cashier - 0Customer buys...
+2019-03-14 22:08:04 [pool-2-thread-1] INFO  com.epam.taskthree.entity.Cashier - Order 4is completed.
+2019-03-14 22:08:04 [pool-2-thread-3] INFO  com.epam.taskthree.entity.Customer - Customer alive!
+2019-03-14 22:08:04 [pool-2-thread-3] INFO  com.epam.taskthree.entity.Cashier - 0Customer buys...
+2019-03-14 22:08:05 [pool-2-thread-3] INFO  com.epam.taskthree.entity.Cashier - Order 12is completed.
+2019-03-14 22:08:05 [pool-2-thread-2] INFO  com.epam.taskthree.entity.Customer - Customer alive!
+2019-03-14 22:08:05 [pool-2-thread-2] INFO  com.epam.taskthree.entity.Cashier - 0Customer buys...
+2019-03-14 22:08:06 [pool-2-thread-2] INFO  com.epam.taskthree.entity.Cashier - Order 5is completed.
+2019-03-14 22:08:07 [main] INFO  com.epam.taskthree.main.Main - 0 cashier has served 1 5 clients!
+2019-03-14 22:08:07 [main] INFO  com.epam.taskthree.main.Main - 1 cashier has served 1 5 clients!
+2019-03-14 22:08:07 [main] INFO  com.epam.taskthree.main.Main - 2 cashier has served 1 5 clients!
+2019-03-14 22:08:07 [main] INFO  com.epam.taskthree.main.Main - main - finally
+2019-03-14 22:12:51 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\aLotOfOrders.txt was successfully read.
+2019-03-14 22:12:51 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:12:51 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:12:51 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:12:51 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:12:51 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:12:51 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:12:51 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:12:51 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:12:51 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:12:51 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:12:51 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:12:51 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:12:51 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:12:51 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:12:51 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:12:51 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 22:12:51 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:12:51 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:12:51 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:12:51 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 22:12:51 [main] INFO  com.epam.taskthree.main.Main - Cashiers give their reports.
+2019-03-14 22:12:51 [pool-2-thread-1] INFO  com.epam.taskthree.entity.Customer - Customer alive!
+2019-03-14 22:12:51 [pool-2-thread-1] INFO  com.epam.taskthree.entity.Cashier - 0Customer buys...
+2019-03-14 22:12:52 [pool-2-thread-1] INFO  com.epam.taskthree.entity.Cashier - Order 1is completed.
+2019-03-14 22:12:52 [pool-2-thread-2] INFO  com.epam.taskthree.entity.Customer - Customer alive!
+2019-03-14 22:12:52 [pool-2-thread-2] INFO  com.epam.taskthree.entity.Cashier - 0Customer buys...
+2019-03-14 22:12:53 [pool-2-thread-2] INFO  com.epam.taskthree.entity.Cashier - Order 23is completed.
+2019-03-14 22:12:53 [pool-2-thread-3] INFO  com.epam.taskthree.entity.Customer - Customer alive!
+2019-03-14 22:12:53 [pool-2-thread-3] INFO  com.epam.taskthree.entity.Cashier - 0Customer buys...
+2019-03-14 22:12:54 [pool-2-thread-3] INFO  com.epam.taskthree.entity.Cashier - Order 34is completed.
+2019-03-14 22:12:54 [pool-2-thread-3] INFO  com.epam.taskthree.entity.Customer - Customer alive!
+2019-03-14 22:12:54 [pool-2-thread-3] INFO  com.epam.taskthree.entity.Cashier - 1Customer buys...
+2019-03-14 22:12:55 [main] INFO  com.epam.taskthree.main.Main - 0 cashier has served 1 5 clients!
+2019-03-14 22:12:55 [main] INFO  com.epam.taskthree.main.Main - 1 cashier has served 1 5 clients!
+2019-03-14 22:12:55 [pool-2-thread-3] INFO  com.epam.taskthree.entity.Cashier - Order 234is completed.
+2019-03-14 22:12:55 [main] INFO  com.epam.taskthree.main.Main - 2 cashier has served 2 5 clients!
+2019-03-14 22:12:55 [main] INFO  com.epam.taskthree.main.Main - main - finally
+2019-03-14 22:19:52 [main] INFO  com.epam.taskthree.reader.DataReader - File:data\aLotOfOrders.txt was successfully read.
+2019-03-14 22:19:52 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:19:52 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:19:52 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:19:52 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:19:52 [main] INFO  epam.taskthree.parser.impl.DataParserImpl - Parse was successful complete.
+2019-03-14 22:19:52 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:19:52 [Thread-1] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:19:52 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:19:52 [Thread-2] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:19:52 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:19:52 [Thread-4] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:19:52 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:19:52 [Thread-3] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:19:52 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer waiting...
+2019-03-14 22:19:52 [Thread-5] INFO  com.epam.taskthree.entity.Customer - Customer bought food.
+2019-03-14 22:19:52 [main] INFO  com.epam.taskthree.main.Main - Customers are divided in queues
+2019-03-14 22:19:52 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:19:52 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:19:52 [main] INFO  com.epam.taskthree.main.Main - Cashier is added.
+2019-03-14 22:19:52 [main] INFO  com.epam.taskthree.main.Main - Queues is added at cashiers.
+2019-03-14 22:19:52 [main] INFO  com.epam.taskthree.main.Main - Cashiers give their reports.
+2019-03-14 22:19:52 [pool-2-thread-2] INFO  com.epam.taskthree.entity.Customer - Customer alive!
+2019-03-14 22:19:52 [pool-2-thread-2] INFO  com.epam.taskthree.entity.Cashier - 0Customer buys...
+2019-03-14 22:19:53 [pool-2-thread-2] INFO  com.epam.taskthree.entity.Cashier - Order 2 is completed.
+2019-03-14 22:19:53 [pool-2-thread-1] INFO  com.epam.taskthree.entity.Customer - Customer alive!
