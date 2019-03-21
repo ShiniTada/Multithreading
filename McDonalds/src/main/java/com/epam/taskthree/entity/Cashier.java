@@ -17,7 +17,6 @@ public class Cashier implements Callable<String> {
 
     private static Lock cashierLock = new ReentrantLock();
 
-    private static Condition condition = cashierLock.newCondition();
 
 
     private List<Customer> listCustomer;
@@ -55,15 +54,16 @@ public class Cashier implements Callable<String> {
         int customerCounter = 0;
         try {
             cashierLock.lock();
-            condition.signalAll();
             for (int i = 0; i < listCustomer.size(); i++) {
                 if (helpSpecialCustomer) {
                     LOGGER.info(" Special customer buys...");
+                    specialCustomer.wakeUp();
                     getOrderToCustomer(specialCustomer);
                     helpSpecialCustomer = false;
                     ++customerCounter;
                 }
                 LOGGER.info(customerCounter + "  customer buys...");
+                customer.wakeUp();
                 getOrderToCustomer(listCustomer.get(i));
                 ++customerCounter;
             }
