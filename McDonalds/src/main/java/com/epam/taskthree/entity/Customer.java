@@ -35,7 +35,10 @@ public class Customer extends Thread {
     public Order getOrder() {
         return order;
     }
-
+    
+    puublic wakeUp() {
+         condition.signal();
+    }
 
     @Override
     public void run() {
